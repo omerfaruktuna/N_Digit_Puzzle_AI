@@ -1,6 +1,14 @@
 # N_Digit_Puzzle_AI
 Solving N Digit Puzzle using Python
 
+The program implements below search algorithms for solving N Digit Puzzle:
+
+1) Breadthfirst Search Algorithm
+2) Depthfirst Search Algorithm
+3) Uniformcost Search Algorithm
+4) Depth Linmited Search
+5) Iterative Deepening Algorithm
+
 This problem is written and tested using Python version 3.5
 
 The initial state is entered to the file named "question.txt".
@@ -27,4 +35,4 @@ Given a 3×3 board with 8 tiles (every tile has one number from 1 to 8) and one 
 
 The objective is to place the numbers on tiles to match final configuration using the empty space. 
 
-We can slide four adjacent (left, right, above and below) tiles into the empty space.
+
