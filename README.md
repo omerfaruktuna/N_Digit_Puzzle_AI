@@ -29,7 +29,7 @@ recursion limit in the computers we use and it gives error when I use recursion.
 
 --------------------------------------------------------------------------------------------------------------------------
 
-If we chose N = 8, then the puzzle becomes well known 8 Digit Puzzle.
+If we chose the dimension as 3, then the puzzle becomes well known 8 Digit Puzzle.
 
 Given a 3×3 board with 8 tiles (every tile has one number from 1 to 8) and one empty space. 
 
